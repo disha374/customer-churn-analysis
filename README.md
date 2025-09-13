@@ -39,10 +39,11 @@ This project demonstrates the power of combining **traditional BI dashboards** w
 ---
 
 ## 📂 Files in this Repository
-- `Churn Analysis project.pbix` → Power BI dashboard  
+- `Churn Analysis project.pbix` → Power BI dashboard
+- `Customer_Data.csv` → Dataset used 
 - `churn analysis - summary.png` → Churn Analysis (Summary) screenshot  
-- `churn prediction.ipynb` → Churn Analysis (Prediction) screenshot  
-- `customer_churn_model.ipynb` → Jupyter Notebook (Random Forest code)  
+- `churn analysis - prediction.png` → Churn Analysis (Prediction) screenshot  
+- `churn prediction.ipynb` → Jupyter Notebook (Random Forest code)  
 - `sql queries` → SQL script for data cleaning  
 - `Predictions.csv.xlsx` → Exported ML prediction results  
 - `dashboard working.mp4` → Walkthrough recording  
