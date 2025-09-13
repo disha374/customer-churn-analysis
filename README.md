@@ -43,8 +43,8 @@ This project demonstrates the power of combining **traditional BI dashboards** w
 - `churn analysis - summary.png` → Churn Analysis (Summary) screenshot  
 - `churn prediction.ipynb` → Churn Analysis (Prediction) screenshot  
 - `customer_churn_model.ipynb` → Jupyter Notebook (Random Forest code)  
-- `churn_cleaned_data.sql` → SQL script for data cleaning  
-- `churn_prediction_results.xlsx` → Exported ML prediction results  
+- `sql queries` → SQL script for data cleaning  
+- `Predictions.csv.xlsx` → Exported ML prediction results  
 - `dashboard working.mp4` → Walkthrough recording  
 
 ---
