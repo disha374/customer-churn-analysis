@@ -39,7 +39,7 @@ This project demonstrates the power of combining **traditional BI dashboards** w
 ---
 
 ## 📂 Files in this Repository
-- `customer_churn.pbix` → Power BI dashboard  
+- `Churn Analysis project.pbix` → Power BI dashboard  
 - `churn_summary.png` → Churn Analysis (Summary) screenshot  
 - `churn_prediction.png` → Churn Analysis (Prediction) screenshot  
 - `customer_churn_model.ipynb` → Jupyter Notebook (Random Forest code)  
