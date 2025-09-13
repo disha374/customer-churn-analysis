@@ -40,11 +40,11 @@ This project demonstrates the power of combining **traditional BI dashboards** w
 
 ## 📂 Files in this Repository
 - `Churn Analysis project.pbix` → Power BI dashboard  
-- `churn_summary.png` → Churn Analysis (Summary) screenshot  
-- `churn_prediction.png` → Churn Analysis (Prediction) screenshot  
+- `churn analysis - summary.png` → Churn Analysis (Summary) screenshot  
+- `churn prediction.ipynb` → Churn Analysis (Prediction) screenshot  
 - `customer_churn_model.ipynb` → Jupyter Notebook (Random Forest code)  
 - `churn_cleaned_data.sql` → SQL script for data cleaning  
 - `churn_prediction_results.xlsx` → Exported ML prediction results  
-- `Screen Recording of dashboard.mp4` → Walkthrough recording  
+- `dashboard working.mp4` → Walkthrough recording  
 
 ---
